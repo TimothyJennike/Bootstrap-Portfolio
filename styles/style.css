@@ -1,0 +1,25 @@
+
+.logo {
+    width: 5rem;
+}
+/*#home {
+    background-image: url(https://i.postimg.cc/RZGh5Wgp/earth-1756274-960-720.webp);
+    background-size: cover;
+}*/
+
+body {
+    text-align: center;
+}
+
+body:nth-child(odd) {
+    box-shadow: 2px 2px 2px black;
+}
+
+.rounded-4 {
+    width: 75vh;
+    height: 75vh;
+}
+
+li:hover {     
+    font-size: larger;
+}
